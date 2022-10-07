@@ -60,6 +60,12 @@ module.exports = {
         password: "horizxon.studio",
         secure: false,
       },
+      {
+        host: "lava4.horizxon.studio",
+        port: 80,
+        password: "horizxon.studio",
+        secure: false,
+      },
     ],
   },
 
